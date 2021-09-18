@@ -119,6 +119,11 @@ namespace Oxide.Plugins
       Config.WriteObject(config);
     }
     #endregion
+    object CanLootEntity(BasePlayer player, DroppedItemContainer container)
+    {
+      Puts("CanLootEntity works!");
+      return null;
+    }
 
     #region Oxide hooks
     void OnItemResearch(ResearchTable table, Item item, BasePlayer player)
