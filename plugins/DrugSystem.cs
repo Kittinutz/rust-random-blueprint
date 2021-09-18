@@ -669,7 +669,7 @@ namespace Oxide.Plugins
       {
         case "start":
           {
-            Puts('helloworld');
+            Puts("Hellworld");
             int id;
             if (!arg.HasArgs(2) || !int.TryParse(arg.Args[1], out id)) return;
 
@@ -1318,11 +1318,11 @@ namespace Oxide.Plugins
 
           receipt.Items.ForEach(item =>
                   {
-              if (!string.IsNullOrEmpty(item.Image) && !imagesList.ContainsKey(item.Image))
-                imagesList.Add(item.Image, item.Image);
+                    if (!string.IsNullOrEmpty(item.Image) && !imagesList.ContainsKey(item.Image))
+                      imagesList.Add(item.Image, item.Image);
 
-              itemIcons.Add(new KeyValuePair<string, ulong>(item.ShortName, item.Skin));
-            });
+                    itemIcons.Add(new KeyValuePair<string, ulong>(item.ShortName, item.Skin));
+                  });
         });
 
         if (itemIcons.Count > 0) ImageLibrary?.Call("LoadImageList", Title, itemIcons, null);
