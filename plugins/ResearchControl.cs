@@ -135,6 +135,7 @@ namespace Oxide.Plugins
       Puts("OnResearchCostDetermine works!");
       return null;
     }
+
     float OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
