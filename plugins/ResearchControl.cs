@@ -124,6 +124,11 @@ namespace Oxide.Plugins
     {
       Puts("CanLootEntity works!");
     }
+    float OnItemResearched(ResearchTable table, float chance)
+    {
+      Puts("OnItemResearched works!");
+      return 0;
+    }
 
     #region Oxide hooks
     void OnItemResearch(ResearchTable table, Item item, BasePlayer player)
