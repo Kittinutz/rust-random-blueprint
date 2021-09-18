@@ -123,8 +123,6 @@ namespace Oxide.Plugins
     void CanLootEntity(BasePlayer player, ResearchTable table)
     {
       Puts("CanLootEntity works!");
-      var component = table.GetComponent<TableComponent>();
-      Puts(component);
     }
 
     #region Oxide hooks
