@@ -129,13 +129,11 @@ namespace Oxide.Plugins
     {
       Puts("OnItemResearch works!");
     }
-
     object OnResearchCostDetermine(Item item, ResearchTable researchTable)
     {
       Puts("OnResearchCostDetermine works!");
       return null;
     }
-
     float OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
@@ -144,23 +142,23 @@ namespace Oxide.Plugins
 
 
     #region Oxide hooks
-    void OnItemResearch(ResearchTable table, Item item, BasePlayer player)
-    {
-      Puts("helloworld");
-      if (!player)
-      {
-        table.researchDuration = 10;
-        return;
-      }
-      var speed = GetPlayerSpeed(player);
-      if (!speed.IsModifier)
-        table.researchDuration = (float)speed.Speed;
-      else
-          if (config.Prices.ContainsKey(item.info))
-        table.researchDuration = (float)(config.Prices[item.info].Speed * speed.Speed);
-      else
-        table.researchDuration = (float)(10 * speed.Speed);
-    }
+    // void OnItemResearch(ResearchTable table, Item item, BasePlayer player)
+    // {
+    //   Puts("OnItemResearch works!");
+    //   if (!player)
+    //   {
+    //     table.researchDuration = 10;
+    //     return;
+    //   }
+    //   var speed = GetPlayerSpeed(player);
+    //   if (!speed.IsModifier)
+    //     table.researchDuration = (float)speed.Speed;
+    //   else
+    //       if (config.Prices.ContainsKey(item.info))
+    //     table.researchDuration = (float)(config.Prices[item.info].Speed * speed.Speed);
+    //   else
+    //     table.researchDuration = (float)(10 * speed.Speed);
+    // }
     int OnItemScrap(ResearchTable table, Item item)
     {
       decimal rate = GetPlayerRate(table.user);
