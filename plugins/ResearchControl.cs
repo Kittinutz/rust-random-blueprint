@@ -119,9 +119,14 @@ namespace Oxide.Plugins
       Config.WriteObject(config);
     }
     #endregion
-    object CanLootEntity(BasePlayer player, DroppedItemContainer container)
+    void CanLootEntity(BasePlayer player, DroppedItemContainer container)
     {
       Puts("CanLootEntity works!");
+      return null;
+    }
+    void CanMountEntity(BasePlayer player, BaseMountable entity)
+    {
+      Puts("CanMountEntity works!");
       return null;
     }
 
