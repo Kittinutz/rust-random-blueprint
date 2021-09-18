@@ -1,0 +1,18 @@
+15:15 [Info] Loading Oxide Core v2.0.3996...
+15:15 [Info] Loading extensions...
+15:15 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+15:15 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+15:15 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+15:15 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+15:15 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+15:15 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:15 [Info] Local compiler MD5: 0
+15:15 [Info] Compiler MD5 hash did not match, downloading latest
+15:15 [Info] Downloading Compiler.exe for .cs (C#) plugin compilation
+15:15 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.exe, attempting download again
+15:15 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:15 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:15 [Info] Using Covalence provider for game 'Rust'
+15:15 [Info] Loading plugins...
+15:15 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+15:15 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
