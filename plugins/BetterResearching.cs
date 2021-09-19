@@ -11,7 +11,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("Better Researching", "Arainrr", "1.1.3")]
+    [Info("Random Researcher", "Apolocity", "1.0.0")]
     [Description("Modify research time, cost, chance")]
     public class BetterResearching : RustPlugin
     {
