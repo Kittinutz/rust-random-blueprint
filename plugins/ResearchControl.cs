@@ -131,17 +131,15 @@ namespace Oxide.Plugins
       Puts(player.ToString());
       Puts(targetItem.ToString());
     }
-    object OnResearchCostDetermine(Item item, ResearchTable researchTable)
+    void OnResearchCostDetermine(Item item, ResearchTable researchTable)
     {
       Puts("OnResearchCostDetermine works!");
-      return null;
     }
 
-    float OnItemResearched(ResearchTable table, float chance)
+    void OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
       Puts(chance.ToString());
-      return 1;
     }
 
 
