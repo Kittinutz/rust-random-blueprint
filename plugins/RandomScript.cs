@@ -11,33 +11,12 @@ namespace Oxide.Plugins
    *   E-mail: Vlad-00003@mail.ru
    *   Vk: vk.com/vlad_00003
    */
-  class RandomScript : RustPlugin
+  class ResearchControl : RustPlugin
   {
-    #region vars
-    private PluginConfig config;
-    #endregion
 
 
 
     #region Oxide hooks
-    // void OnItemResearch(ResearchTable table, Item item, BasePlayer player)
-    // {
-    //   Puts("OnItemResearch works!");
-    //   if (!player)
-    //   {
-    //     table.researchDuration = 10;
-    //     return;
-    //   }
-    //   var speed = GetPlayerSpeed(player);
-    //   if (!speed.IsModifier)
-    //     table.researchDuration = (float)speed.Speed;
-    //   else
-    //       if (config.Prices.ContainsKey(item.info))
-    //     table.researchDuration = (float)(config.Prices[item.info].Speed * speed.Speed);
-    //   else
-    //     table.researchDuration = (float)(10 * speed.Speed);
-    // }
-
     void CanLootEntity(BasePlayer player, ResearchTable table)
     {
       Puts("CanLootEntity works!");
@@ -57,6 +36,7 @@ namespace Oxide.Plugins
     void OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
+      Puts(chance.ToString());
     }
     #endregion
   }
