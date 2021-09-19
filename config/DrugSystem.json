@@ -1,0 +1,121 @@
+{
+  "Permission": "drugsystem.use",
+  "Receipts": [
+    {
+      "Items to Process": [
+        {
+          "Image": "https://i.imgur.com/sRYHpuT.png",
+          "ShortName": "red.berry",
+          "Skin": 2555182455,
+          "Display Name (empty - default)": "Poppy Flower",
+          "Amount": 1
+        },
+        {
+          "Image": "",
+          "ShortName": "bleach",
+          "Skin": 0,
+          "Display Name (empty - default)": "",
+          "Amount": 1
+        },
+        {
+          "Image": "",
+          "ShortName": "antiradpills",
+          "Skin": 0,
+          "Display Name (empty - default)": "",
+          "Amount": 1
+        }
+      ],
+      "Mix Time": 15.0,
+      "Result Item": {
+        "Image": "https://i.imgur.com/d83phHA.png",
+        "ShortName": "glue",
+        "Skin": 2553143857,
+        "Display Name (empty - default)": "Cocaine",
+        "Amount": 1
+      },
+      "Command to give": "",
+      "Command to give ingredients": "give.ingredients.cocaine",
+      "Main Description": "Cocaine Description",
+      "Description": [
+        "string 1",
+        "string 2",
+        "string 3"
+      ]
+    },
+    {
+      "Items to Process": [
+        {
+          "Image": "https://i.imgur.com/0doAEF7.png",
+          "ShortName": "seed.hemp",
+          "Skin": 2555171480,
+          "Display Name (empty - default)": "Cannabis Leaves",
+          "Amount": 1
+        },
+        {
+          "Image": "",
+          "ShortName": "knife.butcher",
+          "Skin": 0,
+          "Display Name (empty - default)": "",
+          "Amount": 1
+        }
+      ],
+      "Mix Time": 15.0,
+      "Result Item": {
+        "Image": "https://i.imgur.com/Fmqjrqp.png",
+        "ShortName": "coal",
+        "Skin": 2555171111,
+        "Display Name (empty - default)": "Weed",
+        "Amount": 1
+      },
+      "Command to give": "",
+      "Command to give ingredients": "give.ingredients.weed",
+      "Main Description": "Weed Description",
+      "Description": [
+        "string 1",
+        "string 2",
+        "string 3"
+      ]
+    }
+  ],
+  "Bonk Settings": {
+    "Command to give": "give.bonk",
+    "Image": "",
+    "ShortName": "battery.small",
+    "Skin": 2555171325,
+    "Display Name (empty - default)": "Bonk",
+    "Amount": 1
+  },
+  "Weed Settings": {
+    "Command to give": "give.weed",
+    "Image": "",
+    "ShortName": "coal",
+    "Skin": 2555171111,
+    "Display Name (empty - default)": "Weed",
+    "Amount": 1
+  },
+  "Bonk + Weed Effects": {
+    "Health": 0.0,
+    "Hydration": 800.0,
+    "Calories": 800.0
+  },
+  "Cocaine Settings": {
+    "Using Cooldown": 5.0,
+    "Command to give": "give.cocaine",
+    "Image": "",
+    "ShortName": "blood",
+    "Skin": 2553143857,
+    "Display Name (empty - default)": "Cocaine",
+    "Amount": 1
+  },
+  "Cocaine Effects": {
+    "Health": 100.0,
+    "Hydration": 800.0,
+    "Calories": 800.0
+  },
+  "Bots for processing": [
+    "1234567",
+    "7654321",
+    "4644687478"
+  ],
+  "Max Bot Distance": 1.0
+}

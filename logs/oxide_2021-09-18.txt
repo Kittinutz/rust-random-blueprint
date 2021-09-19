@@ -16,3 +16,307 @@
 15:15 [Info] Loading plugins...
 15:15 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
 15:15 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+15:24 [Info] Loading Oxide Core v2.0.3996...
+15:24 [Info] Loading extensions...
+15:24 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+15:24 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+15:24 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+15:24 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+15:24 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+15:25 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:25 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:25 [Info] Using Covalence provider for game 'Rust'
+15:25 [Info] Loading plugins...
+15:25 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+15:25 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+15:34 [Info] Loading Oxide Core v2.0.3996...
+15:34 [Info] Loading extensions...
+15:34 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+15:34 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+15:34 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+15:34 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+15:34 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+15:34 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:34 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:34 [Info] Using Covalence provider for game 'Rust'
+15:34 [Info] Loading plugins...
+15:34 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+15:34 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+15:44 [Info] Loading Oxide Core v2.0.3996...
+15:44 [Info] Loading extensions...
+15:44 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+15:44 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+15:44 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+15:44 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+15:44 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+15:44 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:44 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:44 [Info] Using Covalence provider for game 'Rust'
+15:44 [Info] Loading plugins...
+15:44 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+15:44 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:13 [Info] Loading Oxide Core v2.0.3996...
+16:13 [Info] Loading extensions...
+16:13 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+16:13 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:13 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+16:13 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:13 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:13 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:13 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:13 [Info] Using Covalence provider for game 'Rust'
+16:13 [Info] Loading plugins...
+16:13 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+16:13 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:13 [Info] Loading Oxide Core v2.0.3996...
+16:13 [Info] Loading extensions...
+16:13 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+16:13 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:13 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+16:13 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:13 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:13 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:13 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:13 [Info] Using Covalence provider for game 'Rust'
+16:13 [Info] Loading plugins...
+16:13 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+16:13 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:22 [Info] Loading Oxide Core v2.0.3996...
+16:22 [Info] Loading extensions...
+16:22 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+16:22 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:22 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+16:22 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:22 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:22 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:22 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:22 [Info] Using Covalence provider for game 'Rust'
+16:22 [Info] Loading plugins...
+16:22 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+16:22 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:22 [Info] Loading Oxide Core v2.0.3996...
+16:22 [Info] Loading extensions...
+16:22 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+16:22 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:22 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+16:22 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:22 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:22 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:22 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:22 [Info] Using Covalence provider for game 'Rust'
+16:22 [Info] Loading plugins...
+16:22 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+16:22 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:29 [Info] IP address from external API: 35.247.140.56
+17:10 [Info] Loading Oxide Core v2.0.3996...
+17:10 [Info] Loading extensions...
+17:10 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+17:11 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:11 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+17:11 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:11 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:11 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:11 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:11 [Info] Using Covalence provider for game 'Rust'
+17:11 [Info] Loading plugins...
+17:11 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+17:11 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:22 [Info] IP address from external API: 35.213.154.25
+17:37 [Info] Loading Oxide Core v2.0.3996...
+17:37 [Info] Loading extensions...
+17:37 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+17:37 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:37 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+17:37 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:37 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:37 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:37 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:37 [Info] Using Covalence provider for game 'Rust'
+17:37 [Info] Loading plugins...
+17:37 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+17:37 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:41 [Info] Loading Oxide Core v2.0.3996...
+17:41 [Info] Loading extensions...
+17:41 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+17:41 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:41 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+17:41 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:41 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:41 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:41 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:41 [Info] Using Covalence provider for game 'Rust'
+17:41 [Info] Loading plugins...
+17:41 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+17:41 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:52 [Info] Loading Oxide Core v2.0.3996...
+17:52 [Info] Loading extensions...
+17:52 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+17:52 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:52 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+17:52 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:52 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:52 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:52 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:52 [Info] Using Covalence provider for game 'Rust'
+17:52 [Info] Loading plugins...
+17:52 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+17:52 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:52 [Info] Loading Oxide Core v2.0.3996...
+17:52 [Info] Loading extensions...
+17:52 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+17:52 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:52 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+17:52 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:52 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:52 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:52 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:52 [Info] Using Covalence provider for game 'Rust'
+17:52 [Info] Loading plugins...
+17:52 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+17:52 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:53 [Info] Loading Oxide Core v2.0.3996...
+17:53 [Info] Loading extensions...
+17:53 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+17:53 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:53 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+17:53 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:53 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:53 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:53 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:53 [Info] Using Covalence provider for game 'Rust'
+17:53 [Info] Loading plugins...
+17:53 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+17:53 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+18:04 [Info] IP address from external API: 35.213.154.25
+18:27 [Error] Error while compiling: DrugSystem.cs(675,18): error CS1012: Too many characters in character literal
+18:27 [Info] Usage: oxide.reload *|<pluginname>+
+18:34 [Info] DrugSystem was compiled successfully in 2940ms
+18:34 [Warning] [Drug System] IMAGE LIBRARY IS NOT INSTALLED!
+18:34 [Warning] Covalence command alias already exists: 
+18:34 [Warning] DrugSystem has replaced the '' command previously registered by DrugSystem
+18:34 [Info] Loaded plugin Drug System v1.0.5 by apolocity
+18:35 [Info] Unloaded plugin Drug System v1.0.5 by apolocity
+18:35 [Warning] [Drug System] IMAGE LIBRARY IS NOT INSTALLED!
+18:35 [Warning] Covalence command alias already exists: 
+18:35 [Warning] DrugSystem has replaced the '' command previously registered by DrugSystem
+18:35 [Info] Loaded plugin Drug System v1.0.5 by apolocity
+18:37 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:37 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+18:37 [Info] ImageLibrary was compiled successfully in 2918ms
+18:37 [Warning] [Image Library] Retrieving item skin lists...
+18:37 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.58' took 1296ms
+18:37 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:37 [Info] Unloaded plugin Drug System v1.0.5 by apolocity
+18:37 [Warning] Covalence command alias already exists: 
+18:37 [Warning] DrugSystem has replaced the '' command previously registered by DrugSystem
+18:37 [Info] Loaded plugin Drug System v1.0.5 by apolocity
+18:37 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:37 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:37 [Info] Unloaded plugin Drug System v1.0.5 by apolocity
+18:37 [Warning] Covalence command alias already exists: 
+18:37 [Warning] DrugSystem has replaced the '' command previously registered by DrugSystem
+18:37 [Info] Loaded plugin Drug System v1.0.5 by apolocity
+18:37 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:37 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:37 [Info] [Image Library] Starting order Drug System
+18:38 [Info] Unloaded plugin Drug System v1.0.5 by apolocity
+18:38 [Warning] Covalence command alias already exists: 
+18:38 [Warning] DrugSystem has replaced the '' command previously registered by DrugSystem
+18:38 [Info] Loaded plugin Drug System v1.0.5 by apolocity
+18:38 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:38 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:38 [Info] [Image Library] Starting order Drug System
+18:39 [Info] Unloaded plugin Drug System v1.0.5 by apolocity
+18:39 [Warning] Covalence command alias already exists: 
+18:39 [Warning] DrugSystem has replaced the '' command previously registered by DrugSystem
+18:39 [Info] Loaded plugin Drug System v1.0.5 by apolocity
+18:39 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:39 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+18:39 [Info] [Image Library] Starting order Drug System
+19:06 [Info] Unloaded plugin Drug System v1.0.5 by apolocity
+19:06 [Warning] Covalence command alias already exists: 
+19:06 [Warning] DrugSystem has replaced the '' command previously registered by DrugSystem
+19:06 [Info] Loaded plugin Drug System v1.0.5 by apolocity
+19:06 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+19:06 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+19:06 [Info] [Image Library] Starting order Drug System
+19:06 [Info] Unloaded plugin Drug System v1.0.5 by apolocity
+19:06 [Warning] Covalence command alias already exists: 
+19:06 [Warning] DrugSystem has replaced the '' command previously registered by DrugSystem
+19:06 [Info] Loaded plugin Drug System v1.0.5 by apolocity
+19:06 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+19:06 [Info] Loaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+19:06 [Info] [Image Library] Starting order Drug System
+19:07 [Info] Unloaded plugin Drug System v1.0.5 by apolocity
+19:07 [Info] Unloaded plugin Image Library v2.0.58 by Absolut & K1lly0u
+19:07 [Info] ResearchControl was compiled successfully in 2666ms
+19:07 [Warning] [ResearchControl] Default config file created!
+19:07 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:12 [Error] Could not load plugin '8' (no plugin found with that file name)
+19:12 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:12 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:12 [Info] [ResearchControl] helloworld
+19:12 [Warning] 'ResearchControl v1.0.4' is using deprecated hook 'OnItemScrap', which will stop working on Friday, 31 December 2021. Please ask the author to update to 'OnResearchCostDetermine(Item item, ResearchTable table)'
+19:40 [Info] ResearchControl was compiled successfully in 2620ms
+19:40 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:40 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:40 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:40 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:42 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:42 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:45 [Info] RandomScript was compiled successfully in 3028ms
+19:45 [Error] Error while compiling: ResearchControl.cs(133,7): error CS0127: `Oxide.Plugins.ResearchControl.CanMountEntity(BasePlayer, BaseMountable)': A return keyword must not be followed by any expression when method returns void
+19:45 [Error] Unable to find main plugin class: RandomScript
+19:45 [Info] No previous version to rollback plugin: RandomScript
+19:47 [Warning] [DEBUG] Reload requested for plugin which is already loading: ResearchControl
+19:47 [Info] ResearchControl was compiled successfully in 2678ms
+19:47 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:47 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+19:53 [Info] [ResearchControl] CanMountEntity works!
+19:53 [Info] [ResearchControl] CanMountEntity works!
+19:53 [Info] [ResearchControl] CanMountEntity works!
+19:53 [Info] [ResearchControl] CanMountEntity works!
+19:53 [Info] [ResearchControl] CanMountEntity works!
+19:57 [Error] Error while compiling: ResearchControl.cs(129,42): error CS0246: The type or namespace name `TableComponent' could not be found. Are you missing an assembly reference?
+20:01 [Warning] [DEBUG] Reload requested for plugin which is already loading: ResearchControl
+20:01 [Info] ResearchControl was compiled successfully in 2837ms
+20:01 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:01 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:01 [Info] [ResearchControl] CanLootEntity works!
+20:12 [Info] ResearchControl was compiled successfully in 2647ms
+20:12 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:12 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:12 [Info] [ResearchControl] CanLootEntity works!
+20:12 [Info] [ResearchControl] CanLootEntity works!
+20:13 [Info] [ResearchControl] CanLootEntity works!
+20:13 [Info] [ResearchControl] CanLootEntity works!
+20:13 [Info] [ResearchControl] CanLootEntity works!
+20:13 [Info] [ResearchControl] CanLootEntity works!
+20:14 [Info] [ResearchControl] CanLootEntity works!
+20:14 [Info] [ResearchControl] helloworld
+20:14 [Warning] 'ResearchControl v1.0.4' is using deprecated hook 'OnItemScrap', which will stop working on Friday, 31 December 2021. Please ask the author to update to 'OnResearchCostDetermine(Item item, ResearchTable table)'
+20:16 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:16 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:25 [Info] [ResearchControl] CanLootEntity works!
+20:25 [Info] [ResearchControl] helloworld
+20:38 [Info] [ResearchControl] CanLootEntity works!
+20:38 [Info] [ResearchControl] CanLootEntity works!
+20:38 [Info] [ResearchControl] helloworld
+20:41 [Warning] [DEBUG] Reload requested for plugin which is already loading: ResearchControl
+20:41 [Error] Error while compiling: ResearchControl.cs(150,10): error CS0111: A member `Oxide.Plugins.ResearchControl.OnItemResearch(ResearchTable, Item, BasePlayer)' is already defined. Rename this member or use different parameter types
+20:44 [Error] Error while compiling: ResearchControl.cs(144,14): error CS0664: Literal of type double cannot be implicitly converted to type `float'. Add suffix `f' to create a literal of this type
+20:44 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:44 [Error] Unable to load ResearchControl. ResearchControl.cs(144,14): error CS0664: Literal of type double cannot be implicitly converted to type `float'. Add suffix `f' to create a literal of this type
+20:44 [Info] Previous version of plugin failed to load: ResearchControl
+20:48 [Info] Usage: oxide.reload *|<pluginname>+
+20:51 [Error] Error while compiling: ResearchControl.cs(145,14): error CS0664: Literal of type double cannot be implicitly converted to type `float'. Add suffix `f' to create a literal of this type
+20:52 [Info] ResearchControl was compiled successfully in 673ms
+20:52 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:52 [Info] [ResearchControl] CanLootEntity works!
+20:52 [Info] Usage: oxide.reload *|<pluginname>+
+20:52 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:52 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+20:52 [Info] [ResearchControl] CanLootEntity works!
+20:53 [Info] [ResearchControl] CanLootEntity works!
+20:53 [Info] [ResearchControl] OnItemResearch works!
+20:53 [Info] [ResearchControl] NodeJS[76561198123385799]

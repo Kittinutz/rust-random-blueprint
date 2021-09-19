@@ -1,0 +1,13 @@
+{
+  "NoPermission": "You don't have permission to use this command!",
+  "UiTitle": "DRUG MIXING",
+  "RecipeName": "Recipe Name",
+  "IngredientsTitle": "Ingredients",
+  "HasAmountTitle": "<color=#FAA300>{0}</color>",
+  "ProcessBtn": "PROCESS",
+  "InfoBtn": "READ ABOUT RECIPE",
+  "ProcessingTitle": "Processing in {0}s...",
+  "NeedTitle": "NEED",
+  "ItemTitle": "ITEM",
+  "HaveTitle": "HAVE"
+}

@@ -1,0 +1,134 @@
+14:13 [Warning] 'ResearchControl v1.0.4' is using deprecated hook 'OnItemScrap', which will stop working on Friday, 31 December 2021. Please ask the author to update to 'OnResearchCostDetermine(Item item, ResearchTable table)'
+14:13 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:13 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:13 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:14 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:14 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:15 [Info] [ResearchControl] CanLootEntity works!
+14:15 [Info] [ResearchControl] CanLootEntity works!
+14:15 [Info] [ResearchControl] OnItemResearch works!
+14:15 [Info] [ResearchControl] NodeJS[76561198123385799]
+14:15 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:15 [Info] [ResearchControl] CanLootEntity works!
+14:16 [Info] [ResearchControl] CanLootEntity works!
+14:16 [Info] [ResearchControl] CanLootEntity works!
+14:17 [Info] [ResearchControl] OnItemResearch works!
+14:17 [Info] [ResearchControl] NodeJS[76561198123385799]
+14:17 [Info] [ResearchControl] CanLootEntity works!
+14:17 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:17 [Info] [ResearchControl] CanLootEntity works!
+14:18 [Info] [ResearchControl] CanLootEntity works!
+14:18 [Error] Error while compiling: ResearchControl.cs(146,12): error CS1503: Argument `#1' cannot convert `float' expression to type `string'
+14:19 [Info] [ResearchControl] CanLootEntity works!
+14:19 [Info] ResearchControl was compiled successfully in 875ms
+14:19 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:19 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:19 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:19 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:19 [Info] [ResearchControl] OnItemResearch works!
+14:19 [Info] [ResearchControl] NodeJS[76561198123385799]
+14:19 [Info] [ResearchControl] Item.rifle.akx1.61855
+14:19 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:20 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:20 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:20 [Info] [ResearchControl] CanLootEntity works!
+14:21 [Info] [ResearchControl] CanLootEntity works!
+14:21 [Info] [ResearchControl] OnItemResearch works!
+14:21 [Info] [ResearchControl] NodeJS[76561198123385799]
+14:21 [Info] [ResearchControl] Item.rifle.akx1.62238
+14:26 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:26 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:26 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:27 [Info] [ResearchControl] CanLootEntity works!
+14:27 [Info] [ResearchControl] OnItemResearch works!
+14:27 [Info] [ResearchControl] NodeJS[76561198123385799]
+14:27 [Info] [ResearchControl] Item.rifle.akx1.62552
+14:28 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:31 [Info] Usage: oxide.reload *|<pluginname>+
+14:31 [Info] ResearchControl was compiled successfully in 2805ms
+14:31 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:31 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:31 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:31 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:31 [Info] [ResearchControl] CanLootEntity works!
+14:31 [Info] [ResearchControl] OnItemResearch works!
+14:31 [Info] [ResearchControl] NodeJS[76561198123385799]
+14:31 [Info] [ResearchControl] Item.rifle.akx1.62796
+14:33 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:33 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:34 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:34 [Info] [ResearchControl] CanLootEntity works!
+14:34 [Info] [ResearchControl] OnItemResearch works!
+14:34 [Info] [ResearchControl] NodeJS[76561198123385799]
+14:34 [Info] [ResearchControl] Item.rifle.akx1.62950
+14:35 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:36 [Info] [ResearchControl] OnItemResearch works!
+14:36 [Info] [ResearchControl] NodeJS[76561198123385799]
+14:36 [Info] [ResearchControl] Item.rifle.akx1.65938
+14:36 [Info] [ResearchControl] OnResearchCostDetermine works!
+14:51 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+14:51 [Error] Error while compiling: RandomScript.cs(65,1): error CS1038: #endregion directive expected
+14:51 [Error] Error while compiling: RandomScript.cs(20,13): error CS0246: The type or namespace name `PluginConfig' could not be found. Are you missing an assembly reference?
+14:53 [Info] RandomScript was compiled successfully in 2406ms
+14:53 [Warning] RandomScript has polluted the global namespace by defining ResearchControl
+14:53 [Error] Unable to find main plugin class: RandomScript
+14:53 [Info] No previous version to rollback plugin: RandomScript
+14:53 [Info] RandomScript was compiled successfully in 461ms
+14:53 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+15:00 [Info] [ResearchControl] CanLootEntity works!
+15:01 [Info] [ResearchControl] CanLootEntity works!
+15:01 [Info] [ResearchControl] OnItemResearch works!
+15:01 [Info] [ResearchControl] NodeJS[76561198123385799]
+15:01 [Info] [ResearchControl] Item.rifle.akx1.68315
+15:01 [Info] [ResearchControl] OnResearchCostDetermine works!
+15:03 [Warning] [DEBUG] Reload requested for plugin which is already loading: RandomScript
+15:03 [Info] RandomScript was compiled successfully in 2461ms
+15:03 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+15:03 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+15:03 [Info] [ResearchControl] CanLootEntity works!
+15:03 [Info] [ResearchControl] OnItemResearch works!
+15:03 [Info] [ResearchControl] NodeJS[76561198123385799]
+15:03 [Info] [ResearchControl] Item.rifle.akx1.68320
+15:06 [Info] Loading Oxide Core v2.0.3996...
+15:06 [Info] Loading extensions...
+15:06 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+15:06 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+15:06 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+15:06 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+15:06 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+15:06 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:06 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:06 [Info] Using Covalence provider for game 'Rust'
+15:06 [Info] Loading plugins...
+15:06 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+15:06 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+15:06 [Info] RandomScript was compiled successfully in 0ms
+15:06 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+15:12 [Info] IP address from external API: 35.213.154.25
+17:59 [Info] Loading Oxide Core v2.0.3996...
+17:59 [Info] Loading extensions...
+17:59 [Info] Loaded extension CSharp v2.0.4044 by Oxide Team and Contributors
+17:59 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+17:59 [Info] Loaded extension Rust v2.0.5186 by Oxide Team and Contributors
+17:59 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+17:59 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:59 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:59 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:59 [Info] Using Covalence provider for game 'Rust'
+17:59 [Info] Loading plugins...
+17:59 [Info] Loaded plugin Rust v2.0.5186 by Oxide Team and Contributors
+17:59 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:59 [Info] RandomScript was compiled successfully in 0ms
+17:59 [Info] Loaded plugin ResearchControl v1.0.4 by Vlad-00003
+18:06 [Info] IP address from external API: 35.213.154.25
+18:09 [Info] [ResearchControl] CanLootEntity works!
+18:11 [Info] [ResearchControl] CanLootEntity works!
+18:11 [Info] [ResearchControl] OnItemResearch works!
+18:11 [Info] [ResearchControl] NodeJS[76561198123385799]
+18:11 [Info] [ResearchControl] Item.rifle.akx1.76566
+18:11 [Info] [ResearchControl] OnResearchCostDetermine works!
+18:14 [Info] Unloaded plugin ResearchControl v1.0.4 by Vlad-00003
+18:14 [Info] BetterResearching was compiled successfully in 3330ms
+18:14 [Warning] [Better Researching] Creating a new configuration file
+18:14 [Warning] Calling 'OnServerInitialized' on 'BetterResearching v1.1.3' took 124ms
+18:14 [Info] Loaded plugin Better Researching v1.1.3 by Arainrr

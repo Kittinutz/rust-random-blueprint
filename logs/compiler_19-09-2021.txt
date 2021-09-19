@@ -1,0 +1,1 @@
+[SERVER v1.0.24] Started as service

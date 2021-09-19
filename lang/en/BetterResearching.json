@@ -1,0 +1,10 @@
+{
+  "ResearchFailed": "Researching <color=#FF8C00>{0}</color> failed",
+  "ResearchFailedScrap": "Researching <color=#FF8C00>{0}</color> failed，Consumed {1} Scrap",
+  "ResearchFailedTargetItem": "Researching <color=#FF8C00>{0}</color> failed，target item is consumed",
+  "ResearchSuccess": "Researched <color=#7FFF00>{0}</color> successfully ",
+  "ResearchCantAfford": "You don't have enough Scrap to research {0}. This item's research cost is {1} Scrap",
+  "IsBlocked": "<color=#1E90FF>{0}</color> is blocked, cannot research",
+  "CantResearch": "CANT RESEARCH",
+  "CanResearch": "BEGIN RESEARCH"
+}

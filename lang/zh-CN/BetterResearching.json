@@ -1,0 +1,10 @@
+{
+  "ResearchFailed": "<color=#FF8C00>{0}</color> 研究失败",
+  "ResearchFailedAmount": "<color=#FF8C00>{0}</color> 研究失败，浪费了 {1} 个废料",
+  "ResearchFailedTargetItem": "<color=#FF8C00>{0}</color> 研究失败，目标物品已经破碎了",
+  "ResearchSuccess": "<color=#7FFF00>{0}</color> 研究成功",
+  "ResearchCantAfford": "您需要 {1} 个废料来研究 <color=#7FFF00>{0}</color>",
+  "IsBlocked": "服务器禁止您研究 <color=#1E90FF>{0}</color>",
+  "CantResearch": "无法研究",
+  "CanResearch": "开始研究"
+}

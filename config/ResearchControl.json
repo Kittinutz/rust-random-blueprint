@@ -1,0 +1,1319 @@
+{
+  "Custom permission multipliers": {
+    "researchcontrol.vip": {
+      "Research cost modifier": 70,
+      "Research speed modifier": 70.0,
+      "The speed is absolute value, not modifier": false
+    },
+    "researchcontrol.gold": {
+      "Research cost modifier": 50,
+      "Research speed modifier": 50.0,
+      "The speed is absolute value, not modifier": false
+    },
+    "researchcontrol.punish": {
+      "Research cost modifier": 120,
+      "Research speed modifier": 40.0,
+      "The speed is absolute value, not modifier": true
+    }
+  },
+  "Default price list": {
+    "Misc": {
+      "Fogger-3000": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Strobe Light": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Rustigé Egg - Red": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Rustigé Egg - Blue": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Rustigé Egg - Purple": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Rustigé Egg - Ivory": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Rustigé Egg - Green": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Large Candle Set": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Small Candle Set": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Cursed Cauldron": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Graveyard Fence": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Spooky Speaker": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Giant Candy Decor": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Giant Lollipop Decor": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Snow Machine": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      }
+    },
+    "Items": {
+      "Kayak": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Bed": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Chair": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Drop Box": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Stone Fireplace": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Fridge": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Large Furnace": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Jack O Lantern Angry": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Jack O Lantern Happy": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Water Barrel": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Locker": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Mail Box": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Mixing Table": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Small Oil Refinery": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Large Planter Box": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Rug Bear Skin": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Rug": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Salvaged Shelves": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Large Banner Hanging": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Two Sided Hanging Sign": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Two Sided Ornate Hanging Sign": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Landscape Picture Frame": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Portrait Picture Frame": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Tall Picture Frame": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "XL Picture Frame": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "XXL Picture Frame": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Large Banner on pole": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Double Sign Post": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Single Sign Post": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "One Sided Town Sign Post": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Two Sided Town Sign Post": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Huge Wooden Sign": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Large Wooden Sign": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Sofa": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Spinning wheel": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Table": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Tuna Can Lamp": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Chinese Lantern": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Dragon Door Knocker": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Chippy Arcade Game": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Easter Door Wreath": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Scarecrow": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Skull Door Knocker": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Skull Fire Pit": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Hobo Barrel": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Christmas Lights": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Festive Doorway Garland": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Snowman": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Festive Window Garland": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Christmas Door Wreath": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      }
+    },
+    "Ammunition": {
+      "Fire Arrow": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Pistol Bullet": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Incendiary Pistol Bullet": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "HV Pistol Ammo": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "5.56 Rifle Ammo": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Explosive 5.56 Rifle Ammo": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Incendiary 5.56 Rifle Ammo": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "HV 5.56 Rifle Ammo": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Rocket": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Incendiary Rocket": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "High Velocity Rocket": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "12 Gauge Buckshot": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "12 Gauge Incendiary Shell": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "12 Gauge Slug": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Speargun Spear": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Torpedo": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "SAM Ammo": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      }
+    },
+    "Construction": {
+      "Armored Double Door": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Armored Door": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Floor grill": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Ladder Hatch": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Floor triangle grill": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Triangle Ladder Hatch": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "High External Stone Gate": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "High External Wooden Gate": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Wooden Ladder": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "High External Stone Wall": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "High External Wooden Wall": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Prison Cell Gate": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Prison Cell Wall": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Chainlink Fence Gate": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Chainlink Fence": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Garage Door": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Metal Window Bars": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Reinforced Glass Window": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Metal horizontal embrasure": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Metal Vertical embrasure": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Strengthened Glass Window": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Wood Shutters": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Watch Tower": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Concrete Barricade": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Wooden Barricade Cover": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Metal Barricade": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Sandbag Barricade": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Stone Barricade": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Wooden Barricade": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Barbed Wooden Barricade": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Large Water Catcher": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Small Water Catcher": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      }
+    },
+    "Attire": {
+      "Frog Boots": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Leather Gloves": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Roadsign Gloves": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Beenie Hat": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Boonie Hat": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Bucket Helmet": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Baseball Cap": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Clatter Helmet": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Coffee Can Helmet": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Heavy Plate Helmet": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Miners Hat": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Riot Helmet": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Hoodie": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Heavy Plate Jacket": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Snow Jacket": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Jacket": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Improvised Balaclava": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Bandana Mask": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Metal Facemask": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Night Vision Goggles": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Ninja Suit": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Heavy Plate Pants": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Road Sign Kilt": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Shorts": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Pants": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Shirt": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Tank Top": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Boots": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Hazmat Suit": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Longsleeve T-Shirt": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "T-Shirt": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Metal Chest Plate": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Road Sign Jacket": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Dragon Mask": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Ox Mask": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Rat Mask": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Bunny Hat": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Nest Hat": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Surgeon Scrubs": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Movember Moustache": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Purple Sunglasses": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Santa Beard": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Roadsign Horse Armor": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "High Quality Horse Shoes": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      }
+    },
+    "Component": {
+      "Low Quality Carburetor": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Medium Quality Carburetor": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "High Quality Carburetor": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Low Quality Crankshaft": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Medium Quality Crankshaft": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "High Quality Crankshaft": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Low Quality Pistons": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Medium Quality Pistons": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "High Quality Pistons": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Low Quality Spark Plugs": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Medium Quality Spark Plugs": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "High Quality Spark Plugs": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Low Quality Valves": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Medium Quality Valves": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "High Quality Valves": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Gears": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Metal Blade": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Metal Pipe": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Empty Propane Tank": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Road Signs": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Sewing Kit": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Metal Spring": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Cockpit Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Armored Cockpit Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Cockpit With Engine Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Engine Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Flatbed Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Armored Passenger Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Rear Seats Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Storage Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Taxi Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Large Flatbed Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Fuel Tank Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Passenger Vehicle Module": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      }
+    },
+    "Traps": {
+      "Snap Trap": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Wooden Floor Spikes": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Land Mine": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Shotgun Trap": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Flame Turret": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      }
+    },
+    "Electrical": {
+      "Ceiling Light": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Computer Station": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Elevator": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Modular Car Lift": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Audio Alarm": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Smart Alarm": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Smart Switch": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Storage Monitor": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Large Rechargeable Battery": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Medium Rechargeable Battery": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Small Rechargeable Battery": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Button": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Counter": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "HBHF Sensor": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Laser Detector": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Pressure Pad": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Door Controller": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Electric Heater": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Fluid Combiner": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Fluid Splitter": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Fluid Switch & Pump": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "AND Switch": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Blocker": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Electrical Branch": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Root Combiner": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Memory Cell": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "OR Switch": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "RAND Switch": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "RF Broadcaster": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "RF Receiver": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "XOR Switch": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Small Generator": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Large Solar Panel": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Igniter": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Flasher Light": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Siren Light": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Powered Water Purifier": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Switch": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Splitter": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Sprinkler": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Tesla Coil": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Timer": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Water Pump": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Reactive Target": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Search Light": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Wind Turbine": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Small Neon Sign": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Medium Animated Neon Sign": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Medium Neon Sign": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Large Animated Neon Sign": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Large Neon Sign": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Deluxe Christmas Lights": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Auto Turret": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "RF Pager": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      }
+    },
+    "Fun": {
+      "Blue Boomer": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Champagne Boomer": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Green Boomer": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Orange Boomer": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Red Boomer": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Violet Boomer": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Blue Roman Candle": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Green Roman Candle": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Red Roman Candle": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Violet Roman Candle": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "White Volcano Firework": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Red Volcano Firework": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Violet Volcano Firework": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Acoustic Guitar": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "New Year Gong": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Skull Spikes": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Skull Trophy": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Beach Table": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Telephone": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      }
+    },
+    "Resources": {
+      "Explosives": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      }
+    },
+    "Tool": {
+      "Binoculars": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Timed Explosive Charge": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "RF Transmitter": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Flare": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Smoke Grenade": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Survey Charge": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Chainsaw": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Hatchet": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Pickaxe": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Salvaged Axe": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Salvaged Hammer": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Salvaged Icepick": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Satchel Charge": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Garry's Mod Tool Gun": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Water Bucket": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      }
+    },
+    "Medical": {
+      "Large Medkit": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Medical Syringe": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      }
+    },
+    "Weapon": {
+      "Weapon flashlight": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Holosight": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Weapon Lasersight": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Muzzle Boost": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Muzzle Brake": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Silencer": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "8x Zoom Scope": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Assault Rifle": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Beancan Grenade": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Bolt Action Rifle": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Salvaged Cleaver": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Double Barrel Shotgun": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "F1 Grenade": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Flame Thrower": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Combat Knife": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Mace": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "MP5A4": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Paddle": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Waterpipe Shotgun": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Python Revolver": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Revolver": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Rocket Launcher": {
+        "Research cost": 750,
+        "Research speed": 10.0
+      },
+      "Pump Shotgun": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Semi-Automatic Pistol": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Semi-Automatic Rifle": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Custom SMG": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      },
+      "Speargun": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Longsword": {
+        "Research cost": 75,
+        "Research speed": 10.0
+      },
+      "Salvaged Sword": {
+        "Research cost": 20,
+        "Research speed": 10.0
+      },
+      "Thompson": {
+        "Research cost": 250,
+        "Research speed": 10.0
+      }
+    }
+  }
+}

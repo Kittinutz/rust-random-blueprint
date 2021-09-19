@@ -1,0 +1,3356 @@
+{
+  "Research Resource (Item Short Name)": "scrap",
+  "Chat Settings": {
+    "Use PopupNotifications": false,
+    "Chat Prefix": "<color=#00FFFF>[BetterResearching]</color>: ",
+    "Chat SteamID Icon": 0
+  },
+  "Research UI Settings": {
+    "Research - Box - Background Color": "0.42 0.52 0.25 0.98",
+    "Research - Text - Text Color": "0 0 0 1",
+    "Research - Text - Text Size": 16,
+    "Research - Text - Timeleft Text Size": 26,
+    "ResearchCost - Box - Background Color": "0 0 0 0.98",
+    "ResearchCost - Text - Text Color": "1 0 0 1",
+    "ResearchCost - Text - Text Size": 50
+  },
+  "Research Settings": {
+    "kayak": {
+      "Can Research": true,
+      "Display Name": "Kayak",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "arrow.fire": {
+      "Can Research": true,
+      "Display Name": "Fire Arrow",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.pistol": {
+      "Can Research": true,
+      "Display Name": "Pistol Bullet",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.pistol.fire": {
+      "Can Research": true,
+      "Display Name": "Incendiary Pistol Bullet",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.pistol.hv": {
+      "Can Research": true,
+      "Display Name": "HV Pistol Ammo",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.rifle": {
+      "Can Research": true,
+      "Display Name": "5.56 Rifle Ammo",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.rifle.explosive": {
+      "Can Research": true,
+      "Display Name": "Explosive 5.56 Rifle Ammo",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.rifle.incendiary": {
+      "Can Research": true,
+      "Display Name": "Incendiary 5.56 Rifle Ammo",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.rifle.hv": {
+      "Can Research": true,
+      "Display Name": "HV 5.56 Rifle Ammo",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.rocket.basic": {
+      "Can Research": true,
+      "Display Name": "Rocket",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.rocket.fire": {
+      "Can Research": true,
+      "Display Name": "Incendiary Rocket",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.rocket.hv": {
+      "Can Research": true,
+      "Display Name": "High Velocity Rocket",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.shotgun": {
+      "Can Research": true,
+      "Display Name": "12 Gauge Buckshot",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.shotgun.fire": {
+      "Can Research": true,
+      "Display Name": "12 Gauge Incendiary Shell",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.shotgun.slug": {
+      "Can Research": true,
+      "Display Name": "12 Gauge Slug",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "speargun.spear": {
+      "Can Research": true,
+      "Display Name": "Speargun Spear",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "submarine.torpedo.straight": {
+      "Can Research": true,
+      "Display Name": "Torpedo",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "door.double.hinged.toptier": {
+      "Can Research": true,
+      "Display Name": "Armored Double Door",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "door.hinged.toptier": {
+      "Can Research": true,
+      "Display Name": "Armored Door",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "floor.grill": {
+      "Can Research": true,
+      "Display Name": "Floor grill",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "floor.ladder.hatch": {
+      "Can Research": true,
+      "Display Name": "Ladder Hatch",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "floor.triangle.grill": {
+      "Can Research": true,
+      "Display Name": "Floor triangle grill",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "floor.triangle.ladder.hatch": {
+      "Can Research": true,
+      "Display Name": "Triangle Ladder Hatch",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "gates.external.high.stone": {
+      "Can Research": true,
+      "Display Name": "High External Stone Gate",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "gates.external.high.wood": {
+      "Can Research": true,
+      "Display Name": "High External Wooden Gate",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ladder.wooden.wall": {
+      "Can Research": true,
+      "Display Name": "Wooden Ladder",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.external.high.stone": {
+      "Can Research": true,
+      "Display Name": "High External Stone Wall",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.external.high": {
+      "Can Research": true,
+      "Display Name": "High External Wooden Wall",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.frame.cell.gate": {
+      "Can Research": true,
+      "Display Name": "Prison Cell Gate",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.frame.cell": {
+      "Can Research": true,
+      "Display Name": "Prison Cell Wall",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.frame.fence.gate": {
+      "Can Research": true,
+      "Display Name": "Chainlink Fence Gate",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.frame.fence": {
+      "Can Research": true,
+      "Display Name": "Chainlink Fence",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.frame.garagedoor": {
+      "Can Research": true,
+      "Display Name": "Garage Door",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.window.bars.metal": {
+      "Can Research": true,
+      "Display Name": "Metal Window Bars",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.window.bars.toptier": {
+      "Can Research": true,
+      "Display Name": "Reinforced Glass Window",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shutter.metal.embrasure.a": {
+      "Can Research": true,
+      "Display Name": "Metal horizontal embrasure",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shutter.metal.embrasure.b": {
+      "Can Research": true,
+      "Display Name": "Metal Vertical embrasure",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "wall.window.glass.reinforced": {
+      "Can Research": true,
+      "Display Name": "Strengthened Glass Window",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shutter.wood.a": {
+      "Can Research": true,
+      "Display Name": "Wood Shutters",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "watchtower.wood": {
+      "Can Research": true,
+      "Display Name": "Watch Tower",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "burlap.gloves": {
+      "Can Research": true,
+      "Display Name": "Leather Gloves",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "roadsign.gloves": {
+      "Can Research": true,
+      "Display Name": "Roadsign Gloves",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "hat.beenie": {
+      "Can Research": true,
+      "Display Name": "Beenie Hat",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "bucket.helmet": {
+      "Can Research": true,
+      "Display Name": "Bucket Helmet",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "coffeecan.helmet": {
+      "Can Research": true,
+      "Display Name": "Coffee Can Helmet",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "heavy.plate.helmet": {
+      "Can Research": true,
+      "Display Name": "Heavy Plate Helmet",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "hat.miner": {
+      "Can Research": true,
+      "Display Name": "Miners Hat",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "riot.helmet": {
+      "Can Research": true,
+      "Display Name": "Riot Helmet",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "hoodie": {
+      "Can Research": true,
+      "Display Name": "Hoodie",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "heavy.plate.jacket": {
+      "Can Research": true,
+      "Display Name": "Heavy Plate Jacket",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "jacket.snow": {
+      "Can Research": true,
+      "Display Name": "Snow Jacket",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "jacket": {
+      "Can Research": true,
+      "Display Name": "Jacket",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "mask.balaclava": {
+      "Can Research": true,
+      "Display Name": "Improvised Balaclava",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "metal.facemask": {
+      "Can Research": true,
+      "Display Name": "Metal Facemask",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "nightvisiongoggles": {
+      "Can Research": true,
+      "Display Name": "Night Vision Goggles",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "heavy.plate.pants": {
+      "Can Research": true,
+      "Display Name": "Heavy Plate Pants",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "roadsign.kilt": {
+      "Can Research": true,
+      "Display Name": "Road Sign Kilt",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "pants.shorts": {
+      "Can Research": true,
+      "Display Name": "Shorts",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "pants": {
+      "Can Research": true,
+      "Display Name": "Pants",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shirt.collared": {
+      "Can Research": true,
+      "Display Name": "Shirt",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shirt.tanktop": {
+      "Can Research": true,
+      "Display Name": "Tank Top",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shoes.boots": {
+      "Can Research": true,
+      "Display Name": "Boots",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "hazmatsuit": {
+      "Can Research": true,
+      "Display Name": "Hazmat Suit",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "hazmatsuit.spacesuit": {
+      "Can Research": true,
+      "Display Name": "Space Suit",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "tshirt.long": {
+      "Can Research": true,
+      "Display Name": "Longsleeve T-Shirt",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "tshirt": {
+      "Can Research": true,
+      "Display Name": "T-Shirt",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "metal.plate.torso": {
+      "Can Research": true,
+      "Display Name": "Metal Chest Plate",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "roadsign.jacket": {
+      "Can Research": true,
+      "Display Name": "Road Sign Jacket",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ducttape": {
+      "Can Research": true,
+      "Display Name": "Duct Tape",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "carburetor1": {
+      "Can Research": true,
+      "Display Name": "Low Quality Carburetor",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "carburetor2": {
+      "Can Research": true,
+      "Display Name": "Medium Quality Carburetor",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "carburetor3": {
+      "Can Research": true,
+      "Display Name": "High Quality Carburetor",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "crankshaft1": {
+      "Can Research": true,
+      "Display Name": "Low Quality Crankshaft",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "crankshaft2": {
+      "Can Research": true,
+      "Display Name": "Medium Quality Crankshaft",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "crankshaft3": {
+      "Can Research": true,
+      "Display Name": "High Quality Crankshaft",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "piston1": {
+      "Can Research": true,
+      "Display Name": "Low Quality Pistons",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "piston2": {
+      "Can Research": true,
+      "Display Name": "Medium Quality Pistons",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "piston3": {
+      "Can Research": true,
+      "Display Name": "High Quality Pistons",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "sparkplug1": {
+      "Can Research": true,
+      "Display Name": "Low Quality Spark Plugs",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "sparkplug2": {
+      "Can Research": true,
+      "Display Name": "Medium Quality Spark Plugs",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "sparkplug3": {
+      "Can Research": true,
+      "Display Name": "High Quality Spark Plugs",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "valve1": {
+      "Can Research": true,
+      "Display Name": "Low Quality Valves",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "valve2": {
+      "Can Research": true,
+      "Display Name": "Medium Quality Valves",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "valve3": {
+      "Can Research": true,
+      "Display Name": "High Quality Valves",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "gears": {
+      "Can Research": true,
+      "Display Name": "Gears",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "metalblade": {
+      "Can Research": true,
+      "Display Name": "Metal Blade",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "metalpipe": {
+      "Can Research": true,
+      "Display Name": "Metal Pipe",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "propanetank": {
+      "Can Research": true,
+      "Display Name": "Empty Propane Tank",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "roadsigns": {
+      "Can Research": true,
+      "Display Name": "Road Signs",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "sewingkit": {
+      "Can Research": true,
+      "Display Name": "Sewing Kit",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "metalspring": {
+      "Can Research": true,
+      "Display Name": "Metal Spring",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "barricade.concrete": {
+      "Can Research": true,
+      "Display Name": "Concrete Barricade",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "barricade.wood.cover": {
+      "Can Research": true,
+      "Display Name": "Wooden Barricade Cover",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "barricade.metal": {
+      "Can Research": true,
+      "Display Name": "Metal Barricade",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "barricade.sandbags": {
+      "Can Research": true,
+      "Display Name": "Sandbag Barricade",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "barricade.stone": {
+      "Can Research": true,
+      "Display Name": "Stone Barricade",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "barricade.wood": {
+      "Can Research": true,
+      "Display Name": "Wooden Barricade",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "barricade.woodwire": {
+      "Can Research": true,
+      "Display Name": "Barbed Wooden Barricade",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "trap.bear": {
+      "Can Research": true,
+      "Display Name": "Snap Trap",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "bed": {
+      "Can Research": true,
+      "Display Name": "Bed",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ceilinglight": {
+      "Can Research": true,
+      "Display Name": "Ceiling Light",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "chair": {
+      "Can Research": true,
+      "Display Name": "Chair",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "computerstation": {
+      "Can Research": true,
+      "Display Name": "Computer Station",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "dropbox": {
+      "Can Research": true,
+      "Display Name": "Drop Box",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "elevator": {
+      "Can Research": true,
+      "Display Name": "Elevator",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "fireplace.stone": {
+      "Can Research": true,
+      "Display Name": "Stone Fireplace",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "spikes.floor": {
+      "Can Research": true,
+      "Display Name": "Wooden Floor Spikes",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "fridge": {
+      "Can Research": true,
+      "Display Name": "Fridge",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "furnace.large": {
+      "Can Research": true,
+      "Display Name": "Large Furnace",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "trap.landmine": {
+      "Can Research": true,
+      "Display Name": "Land Mine",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "water.barrel": {
+      "Can Research": true,
+      "Display Name": "Water Barrel",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "locker": {
+      "Can Research": true,
+      "Display Name": "Locker",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "mailbox": {
+      "Can Research": true,
+      "Display Name": "Mail Box",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "mixingtable": {
+      "Can Research": true,
+      "Display Name": "Mixing Table",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "modularcarlift": {
+      "Can Research": true,
+      "Display Name": "Modular Car Lift",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "small.oil.refinery": {
+      "Can Research": true,
+      "Display Name": "Small Oil Refinery",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "planter.large": {
+      "Can Research": true,
+      "Display Name": "Large Planter Box",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.audioalarm": {
+      "Can Research": true,
+      "Display Name": "Audio Alarm",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "smart.alarm": {
+      "Can Research": true,
+      "Display Name": "Smart Alarm",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "smart.switch": {
+      "Can Research": true,
+      "Display Name": "Smart Switch",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "storage.monitor": {
+      "Can Research": true,
+      "Display Name": "Storage Monitor",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.battery.rechargable.large": {
+      "Can Research": true,
+      "Display Name": "Large Rechargeable Battery",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.battery.rechargable.medium": {
+      "Can Research": true,
+      "Display Name": "Medium Rechargeable Battery",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.battery.rechargable.small": {
+      "Can Research": true,
+      "Display Name": "Small Rechargeable Battery",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.button": {
+      "Can Research": true,
+      "Display Name": "Button",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.counter": {
+      "Can Research": true,
+      "Display Name": "Counter",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.hbhfsensor": {
+      "Can Research": true,
+      "Display Name": "HBHF Sensor",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.laserdetector": {
+      "Can Research": true,
+      "Display Name": "Laser Detector",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.pressurepad": {
+      "Can Research": true,
+      "Display Name": "Pressure Pad",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.doorcontroller": {
+      "Can Research": true,
+      "Display Name": "Door Controller",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.heater": {
+      "Can Research": true,
+      "Display Name": "Electric Heater",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "fluid.combiner": {
+      "Can Research": true,
+      "Display Name": "Fluid Combiner",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "fluid.splitter": {
+      "Can Research": true,
+      "Display Name": "Fluid Splitter",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "fluid.switch": {
+      "Can Research": true,
+      "Display Name": "Fluid Switch & Pump",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.andswitch": {
+      "Can Research": true,
+      "Display Name": "AND Switch",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.blocker": {
+      "Can Research": true,
+      "Display Name": "Blocker",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electrical.branch": {
+      "Can Research": true,
+      "Display Name": "Electrical Branch",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electrical.combiner": {
+      "Can Research": true,
+      "Display Name": "Root Combiner",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electrical.memorycell": {
+      "Can Research": true,
+      "Display Name": "Memory Cell",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.orswitch": {
+      "Can Research": true,
+      "Display Name": "OR Switch",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.random.switch": {
+      "Can Research": true,
+      "Display Name": "RAND Switch",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.rf.broadcaster": {
+      "Can Research": true,
+      "Display Name": "RF Broadcaster",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.rf.receiver": {
+      "Can Research": true,
+      "Display Name": "RF Receiver",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.xorswitch": {
+      "Can Research": true,
+      "Display Name": "XOR Switch",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.fuelgenerator.small": {
+      "Can Research": true,
+      "Display Name": "Small Generator",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.solarpanel.large": {
+      "Can Research": true,
+      "Display Name": "Large Solar Panel",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.igniter": {
+      "Can Research": true,
+      "Display Name": "Igniter",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.flasherlight": {
+      "Can Research": true,
+      "Display Name": "Flasher Light",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.sirenlight": {
+      "Can Research": true,
+      "Display Name": "Siren Light",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "powered.water.purifier": {
+      "Can Research": true,
+      "Display Name": "Powered Water Purifier",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.switch": {
+      "Can Research": true,
+      "Display Name": "Switch",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.splitter": {
+      "Can Research": true,
+      "Display Name": "Splitter",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.sprinkler": {
+      "Can Research": true,
+      "Display Name": "Sprinkler",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.teslacoil": {
+      "Can Research": true,
+      "Display Name": "Tesla Coil",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "electric.timer": {
+      "Can Research": true,
+      "Display Name": "Timer",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "waterpump": {
+      "Can Research": true,
+      "Display Name": "Water Pump",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "target.reactive": {
+      "Can Research": true,
+      "Display Name": "Reactive Target",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "rug.bear": {
+      "Can Research": true,
+      "Display Name": "Rug Bear Skin",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "rug": {
+      "Can Research": true,
+      "Display Name": "Rug",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "searchlight": {
+      "Can Research": true,
+      "Display Name": "Search Light",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shelves": {
+      "Can Research": true,
+      "Display Name": "Salvaged Shelves",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "sign.wooden.huge": {
+      "Can Research": true,
+      "Display Name": "Huge Wooden Sign",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "sign.wooden.large": {
+      "Can Research": true,
+      "Display Name": "Large Wooden Sign",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "guntrap": {
+      "Can Research": true,
+      "Display Name": "Shotgun Trap",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "spinner.wheel": {
+      "Can Research": true,
+      "Display Name": "Spinning wheel",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "table": {
+      "Can Research": true,
+      "Display Name": "Table",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "tunalight": {
+      "Can Research": true,
+      "Display Name": "Tuna Can Lamp",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "water.catcher.large": {
+      "Can Research": true,
+      "Display Name": "Large Water Catcher",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "water.catcher.small": {
+      "Can Research": true,
+      "Display Name": "Small Water Catcher",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "generator.wind.scrap": {
+      "Can Research": true,
+      "Display Name": "Wind Turbine",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "fun.guitar": {
+      "Can Research": true,
+      "Display Name": "Acoustic Guitar",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "autoturret": {
+      "Can Research": true,
+      "Display Name": "Auto Turret",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "flameturret": {
+      "Can Research": true,
+      "Display Name": "Flame Turret",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "ammo.rocket.sam": {
+      "Can Research": true,
+      "Display Name": "SAM Ammo",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "explosives": {
+      "Can Research": true,
+      "Display Name": "Explosives",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "tool.binoculars": {
+      "Can Research": true,
+      "Display Name": "Binoculars",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "explosive.timed": {
+      "Can Research": true,
+      "Display Name": "Timed Explosive Charge",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "rf.detonator": {
+      "Can Research": true,
+      "Display Name": "RF Transmitter",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "flare": {
+      "Can Research": true,
+      "Display Name": "Flare",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "largemedkit": {
+      "Can Research": true,
+      "Display Name": "Large Medkit",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "syringe.medical": {
+      "Can Research": true,
+      "Display Name": "Medical Syringe",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "rf_pager": {
+      "Can Research": true,
+      "Display Name": "RF Pager",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "grenade.smoke": {
+      "Can Research": true,
+      "Display Name": "Smoke Grenade",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "surveycharge": {
+      "Can Research": true,
+      "Display Name": "Survey Charge",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.cockpit": {
+      "Can Research": true,
+      "Display Name": "Cockpit Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.cockpit.armored": {
+      "Can Research": true,
+      "Display Name": "Armored Cockpit Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.cockpit.with.engine": {
+      "Can Research": true,
+      "Display Name": "Cockpit With Engine Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.engine": {
+      "Can Research": true,
+      "Display Name": "Engine Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.flatbed": {
+      "Can Research": true,
+      "Display Name": "Flatbed Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.passengers.armored": {
+      "Can Research": true,
+      "Display Name": "Armored Passenger Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.rear.seats": {
+      "Can Research": true,
+      "Display Name": "Rear Seats Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.storage": {
+      "Can Research": true,
+      "Display Name": "Storage Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.1mod.taxi": {
+      "Can Research": true,
+      "Display Name": "Taxi Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.2mod.flatbed": {
+      "Can Research": true,
+      "Display Name": "Large Flatbed Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.2mod.fuel.tank": {
+      "Can Research": true,
+      "Display Name": "Fuel Tank Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.2mod.passengers": {
+      "Can Research": true,
+      "Display Name": "Passenger Vehicle Module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "vehicle.module": {
+      "Can Research": true,
+      "Display Name": "Generic vehicle module",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "telephone": {
+      "Can Research": true,
+      "Display Name": "Telephone",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "weapon.mod.flashlight": {
+      "Can Research": true,
+      "Display Name": "Weapon flashlight",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "weapon.mod.holosight": {
+      "Can Research": true,
+      "Display Name": "Holosight",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "weapon.mod.lasersight": {
+      "Can Research": true,
+      "Display Name": "Weapon Lasersight",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "weapon.mod.muzzleboost": {
+      "Can Research": true,
+      "Display Name": "Muzzle Boost",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "weapon.mod.muzzlebrake": {
+      "Can Research": true,
+      "Display Name": "Muzzle Brake",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "weapon.mod.silencer": {
+      "Can Research": true,
+      "Display Name": "Silencer",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "weapon.mod.small.scope": {
+      "Can Research": true,
+      "Display Name": "8x Zoom Scope",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "rifle.ak": {
+      "Can Research": true,
+      "Display Name": "Assault Rifle",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "grenade.beancan": {
+      "Can Research": true,
+      "Display Name": "Beancan Grenade",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "rifle.bolt": {
+      "Can Research": true,
+      "Display Name": "Bolt Action Rifle",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "chainsaw": {
+      "Can Research": true,
+      "Display Name": "Chainsaw",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "salvaged.cleaver": {
+      "Can Research": true,
+      "Display Name": "Salvaged Cleaver",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shotgun.double": {
+      "Can Research": true,
+      "Display Name": "Double Barrel Shotgun",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "grenade.f1": {
+      "Can Research": true,
+      "Display Name": "F1 Grenade",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "flamethrower": {
+      "Can Research": true,
+      "Display Name": "Flame Thrower",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "hatchet": {
+      "Can Research": true,
+      "Display Name": "Hatchet",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "knife.combat": {
+      "Can Research": true,
+      "Display Name": "Combat Knife",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "mace": {
+      "Can Research": true,
+      "Display Name": "Mace",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "smg.mp5": {
+      "Can Research": true,
+      "Display Name": "MP5A4",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "paddle": {
+      "Can Research": true,
+      "Display Name": "Paddle",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "pickaxe": {
+      "Can Research": true,
+      "Display Name": "Pickaxe",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shotgun.waterpipe": {
+      "Can Research": true,
+      "Display Name": "Waterpipe Shotgun",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "pistol.python": {
+      "Can Research": true,
+      "Display Name": "Python Revolver",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "pistol.revolver": {
+      "Can Research": true,
+      "Display Name": "Revolver",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "rocket.launcher": {
+      "Can Research": true,
+      "Display Name": "Rocket Launcher",
+      "Research Cost": 500,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "axe.salvaged": {
+      "Can Research": true,
+      "Display Name": "Salvaged Axe",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "hammer.salvaged": {
+      "Can Research": true,
+      "Display Name": "Salvaged Hammer",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "icepick.salvaged": {
+      "Can Research": true,
+      "Display Name": "Salvaged Icepick",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "explosive.satchel": {
+      "Can Research": true,
+      "Display Name": "Satchel Charge",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "shotgun.pump": {
+      "Can Research": true,
+      "Display Name": "Pump Shotgun",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "pistol.semiauto": {
+      "Can Research": true,
+      "Display Name": "Semi-Automatic Pistol",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "rifle.semiauto": {
+      "Can Research": true,
+      "Display Name": "Semi-Automatic Rifle",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "smg.2": {
+      "Can Research": true,
+      "Display Name": "Custom SMG",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "speargun": {
+      "Can Research": true,
+      "Display Name": "Speargun",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "longsword": {
+      "Can Research": true,
+      "Display Name": "Longsword",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "salvaged.sword": {
+      "Can Research": true,
+      "Display Name": "Salvaged Sword",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "smg.thompson": {
+      "Can Research": true,
+      "Display Name": "Thompson",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "bucket.water": {
+      "Can Research": true,
+      "Display Name": "Water Bucket",
+      "Research Cost": 20,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "horse.armor.roadsign": {
+      "Can Research": true,
+      "Display Name": "Roadsign Horse Armor",
+      "Research Cost": 125,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    },
+    "horse.shoes.advanced": {
+      "Can Research": true,
+      "Display Name": "High Quality Horse Shoes",
+      "Research Cost": 75,
+      "Research Time": 10.0,
+      "Research Success Chance": 100.0,
+      "Item Consumed When Research Fails": {
+        "1": {
+          "Scrap Consumed Chance": 100.0,
+          "Percentage Of Scrap Amount Consumed": 100.0,
+          "Target Item Consumed Chance": 0.0
+        }
+      }
+    }
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 1,
+    "Patch": 3
+  }
+}
