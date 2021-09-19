@@ -28,10 +28,10 @@ namespace Oxide.Plugins
       Puts(player.ToString());
       Puts(targetItem.ToString());
     }
-    void OnResearchCostDetermine(Item item, ResearchTable researchTable)
-    {
-      Puts("OnResearchCostDetermine works!");
-    }
+    // void OnResearchCostDetermine(Item item, ResearchTable researchTable)
+    // {
+    //   Puts("OnResearchCostDetermine works!");
+    // }
 
     void OnItemResearched(ResearchTable table, float chance)
     {
