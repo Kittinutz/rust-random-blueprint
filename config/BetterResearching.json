@@ -2539,8 +2539,8 @@
       "Can Research": true,
       "Display Name": "Medical Syringe",
       "Research Cost": 75,
-      "Research Time": 10.0,
-      "Research Success Chance": 100.0,
+      "Research Time": 5,
+      "Research Success Chance": 5.0,
       "Item Consumed When Research Fails": {
         "1": {
           "Scrap Consumed Chance": 100.0,
