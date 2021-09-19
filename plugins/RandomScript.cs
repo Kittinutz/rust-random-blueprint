@@ -18,26 +18,6 @@ namespace Oxide.Plugins
     #endregion
 
 
-    void CanLootEntity(BasePlayer player, ResearchTable table)
-    {
-      Puts("CanLootEntity works!");
-    }
-
-    void OnItemResearch(ResearchTable table, Item targetItem, BasePlayer player)
-    {
-      Puts("OnItemResearch works!");
-      Puts(player.ToString());
-      Puts(targetItem.ToString());
-    }
-    void OnResearchCostDetermine(Item item, ResearchTable researchTable)
-    {
-      Puts("OnResearchCostDetermine works!");
-    }
-
-    void OnItemResearched(ResearchTable table, float chance)
-    {
-      Puts("OnItemResearched works!");
-    }
 
     #region Oxide hooks
     // void OnItemResearch(ResearchTable table, Item item, BasePlayer player)
@@ -58,5 +38,26 @@ namespace Oxide.Plugins
     //     table.researchDuration = (float)(10 * speed.Speed);
     // }
 
+    void CanLootEntity(BasePlayer player, ResearchTable table)
+    {
+      Puts("CanLootEntity works!");
+    }
+
+    void OnItemResearch(ResearchTable table, Item targetItem, BasePlayer player)
+    {
+      Puts("OnItemResearch works!");
+      Puts(player.ToString());
+      Puts(targetItem.ToString());
+    }
+    void OnResearchCostDetermine(Item item, ResearchTable researchTable)
+    {
+      Puts("OnResearchCostDetermine works!");
+    }
+
+    void OnItemResearched(ResearchTable table, float chance)
+    {
+      Puts("OnItemResearched works!");
+    }
+    #endregion
   }
 }
