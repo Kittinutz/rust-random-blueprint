@@ -141,7 +141,7 @@ namespace Oxide.Plugins
     {
       Puts("OnItemResearched works!");
       Puts(chance);
-      return 0;
+      return 1;
     }
 
 
