@@ -129,6 +129,7 @@ namespace Oxide.Plugins
     {
       Puts("OnItemResearch works!");
       Puts(player.ToString());
+      Puts(targetItem.ToString());
     }
     object OnResearchCostDetermine(Item item, ResearchTable researchTable)
     {
@@ -139,6 +140,7 @@ namespace Oxide.Plugins
     float OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
+      Puts(chance);
       return 0;
     }
 
