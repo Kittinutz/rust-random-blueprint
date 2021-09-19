@@ -228,6 +228,7 @@ namespace Oxide.Plugins
                 {
                     var scrapItem = researchTable.GetScrapItem();
                     TryConsumeItem(researcher, scrapItem, targetItem, researchS, players);
+                    targetItem.Destroy();
                     return scrapItem.amount + 1;
                 }
             }
