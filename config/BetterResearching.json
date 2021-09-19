@@ -2545,7 +2545,7 @@
         "1": {
           "Scrap Consumed Chance": 100.0,
           "Percentage Of Scrap Amount Consumed": 100.0,
-          "Target Item Consumed Chance": 0.0
+          "Target Item Consumed Chance": 100.0
         }
       }
     },
