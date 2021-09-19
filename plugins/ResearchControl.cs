@@ -140,7 +140,7 @@ namespace Oxide.Plugins
     float OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
-      Puts(chance);
+      Puts(chance.ToString());
       return 1;
     }
 
