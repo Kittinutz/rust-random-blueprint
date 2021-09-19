@@ -36,7 +36,6 @@ namespace Oxide.Plugins
     void OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
-      Puts(chance.ToString());
     }
     #endregion
   }
