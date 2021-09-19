@@ -37,9 +37,7 @@ namespace Oxide.Plugins
     void OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
-      Puts(chance.ToString());
     }
-
 
     #region Oxide hooks
     // void OnItemResearch(ResearchTable table, Item item, BasePlayer player)
