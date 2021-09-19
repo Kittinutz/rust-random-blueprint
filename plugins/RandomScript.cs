@@ -11,7 +11,7 @@ namespace Oxide.Plugins
    *   E-mail: Vlad-00003@mail.ru
    *   Vk: vk.com/vlad_00003
    */
-  class ResearchControl : RustPlugin
+  class RandomScript : RustPlugin
   {
 
 
