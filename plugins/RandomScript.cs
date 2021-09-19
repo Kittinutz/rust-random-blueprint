@@ -28,14 +28,16 @@ namespace Oxide.Plugins
       Puts(player.ToString());
       Puts(targetItem.ToString());
     }
-    // void OnResearchCostDetermine(Item item, ResearchTable researchTable)
-    // {
-    //   Puts("OnResearchCostDetermine works!");
-    // }
+    void OnResearchCostDetermine(Item item, ResearchTable researchTable)
+    {
+      Puts("OnResearchCostDetermine works!");
+    }
 
-    void OnItemResearched(ResearchTable table, float chance)
+    float OnItemResearched(ResearchTable table, float chance)
     {
       Puts("OnItemResearched works!");
+      Puts(chance.ToString());
+      return 1;
     }
     #endregion
   }
